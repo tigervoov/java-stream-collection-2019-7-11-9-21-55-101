@@ -1,3 +1,4 @@
+//  30min/34min
 package com.thoughtworks.collection;
 
 import org.junit.Test;
